@@ -6,6 +6,7 @@ body .main__btn {
   text-transform: uppercase;
   border: none; }
 body .popup {
+  display: none;
   position: fixed;
   left: 0;
   right: 0;
